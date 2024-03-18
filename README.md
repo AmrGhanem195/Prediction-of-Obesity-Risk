@@ -1,3 +1,5 @@
+# Prediction of Obesity Risk
+
 MultiClass-Prediction-of-Obesity-Risk. 
 This repository contains a machine learning model that can be used to predict obesity risk in individuals, 
 which is a major risk factor for cardiovascular disease.
